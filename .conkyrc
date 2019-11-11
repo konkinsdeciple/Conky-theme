@@ -37,10 +37,6 @@ ${voffset -8}$alignr$color${font Bitstream Vera Sans:size=38}${time %e}$font
 $color${voffset -30}$color${font Bitstream Vera Sans:size=18}${time %b}$font\
 ${voffset -3} $color${font Bitstream Vera Sans:size=20}${time %Y}$font$color2$hr
 #
-${font Poiret One:weight=Light:size=30}${color0}\
-${alignr}${time %H:%M}\
-${font}${color}
-#
 ${voffset 20}${goto 40}${color}CPU${font Bitstream Vera Sans:bold:size=8}$alignr$cpu%
 ${voffset 5}${goto 40}$font$color2${top name 1}$alignr$color${top cpu 1}%
 ${goto 40}$color2${top name 2}$alignr$color${top cpu 2}%
@@ -64,4 +60,3 @@ ${voffset 5}${color2}${font Bitstream Vera Sans:size=8}${alignr}kernel: ${color}
 #
 
 ]]
-
