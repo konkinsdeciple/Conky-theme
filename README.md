@@ -1,2 +1,1 @@
-# Conky-theme
-Customized conky themes
+Just a customized version of manjaro i3 editions conky, enjoy!
