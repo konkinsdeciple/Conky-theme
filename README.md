@@ -1,4 +1,4 @@
-Just a customized version of manjaro i3 editions conky, enjoy!
+Enjoy my custom conky theme that took inspiration from manjaros i3 conky!
 # Dependencies
 **Bitstream Vera Sans font**
 
