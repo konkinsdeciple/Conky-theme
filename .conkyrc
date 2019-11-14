@@ -1,15 +1,14 @@
 conky.config = {
 	alignment = 'top_right',
-	background = false,
-	color2 = '308CC6',
+	background = true,
+	color2 = '297179',
 	cpu_avg_samples = 2,
 	default_color = 'FFFFFF',
 	double_buffer = true,
-	#Edit the line below change the font and text size v
 	font = 'Bitstream Vera Sans:size=8',
 	gap_x = 25,
 	gap_y = 20,
-	minimum_width = 300,
+	minimum_width = 200,
 	minimum_height = 400,
 	no_buffers = true,
 	own_window = true,
@@ -17,19 +16,6 @@ conky.config = {
 	own_window_transparent = true,
 	update_interval = 1.0,
 	use_xft = true,
-	gap_x = 20,
-	gap_y = 20,
-
-
-
-own_window=true,
-own_window_type="normal",
-own_window_transparent=true,
-own_window_hints="undecorated,below,sticky,skip_taskbar,skip_pager",
-
-own_window_argb_visual=true,
-own_window_argb_value=0,
-
 }
 conky.text = [[
 
